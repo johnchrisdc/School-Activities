@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="Themeawa" parent="@style/_Themeawa"/>
+
+  <style name="_Themeawa" parent="android:Theme.Holo.Light.DarkActionBar">
+
+    <item name="android:editTextBackground">@drawable/themeawa_edit_text_holo_light</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewThemeawa</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/themeawa_btn_check_holo_light</item>
+
+    <item name="android:buttonStyle">@style/ButtonThemeawa</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonThemeawa</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/themeawa_list_selector_holo_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/themeawa_activated_background_holo_light</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/themeawa_fastscroll_thumb_holo</item>
+
+  </style>
+
+</resources>
