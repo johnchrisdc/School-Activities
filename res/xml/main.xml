@@ -4,5 +4,9 @@
 	<Preference android:title="Auto-complete textView" 
 	    android:summary="Autcomplete textview with button"
 	    android:key="auto"/>
+	
+	<Preference android:title="Simple Calculator" 
+	    android:summary="Intents everywhere"
+	    android:key="calc"/>
     
 </PreferenceScreen>
